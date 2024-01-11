@@ -6,6 +6,5 @@ boton.addEventListener('click', () =>{
   counter++;
   boton.innerText = `Counter: ${counter}`;
   valor.innerText = counter;
-  console.log(counter);
 })
 
